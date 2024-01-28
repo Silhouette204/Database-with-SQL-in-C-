@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WFfFc2a7v+/nqGGHig7btmpxsdvhCRqDvoG957pmq/rAn6tBY3lnaWXYMlmnm4ojOS2OopoheeU1636W2U/4+A==",
+  "success": true,
+  "projectFilePath": "D:\\2ND YEAR 1ST SEM\\Objected Oriented Programming\\FINAL TERM\\ACTIVITIES AND QUIZZES\\MP_11\\MachineProblem11\\MachineProblem11\\MachineProblem11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

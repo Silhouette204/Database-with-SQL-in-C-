@@ -1,0 +1,16 @@
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\bin\Debug\net7.0-windows\MachineProblem11.exe
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\bin\Debug\net7.0-windows\MachineProblem11.deps.json
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\bin\Debug\net7.0-windows\MachineProblem11.runtimeconfig.json
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\bin\Debug\net7.0-windows\MachineProblem11.dll
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\bin\Debug\net7.0-windows\MachineProblem11.pdb
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.Form1.resources
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.csproj.GenerateResource.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.AssemblyInfoInputs.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.AssemblyInfo.cs
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.csproj.CoreCompileInputs.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.dll
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\refint\MachineProblem11.dll
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.pdb
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\MachineProblem11.genruntimeconfig.cache
+D:\2ND YEAR 1ST SEM\Objected Oriented Programming\FINAL TERM\ACTIVITIES AND QUIZZES\MP_11\MachineProblem11\MachineProblem11\obj\Debug\net7.0-windows\ref\MachineProblem11.dll
